@@ -1,5 +1,5 @@
 # MazeSolving_and_PathPlanning
-Introduction
+
 The goal of this project was to develop a solution to solve 4x4 rectangular mazes with the
 Mycobot Pro 600. The robot's end effector had to navigate through the maze in straight-line
 sections. A maze was printed on a plastic board and placed within the AI Kit's camera zone. The
